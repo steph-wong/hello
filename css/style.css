@@ -19,7 +19,7 @@ body:before {
   height: 100%;
   z-index: -1;
   background-size: 100% 100%;
-  background-image: url('images/pattern.png');
+  background-image: url(/images/pattern.png);
 }
 body, input, textarea {
   font-family: 'Heebo', sans-serif;
